@@ -1,5 +1,5 @@
-# DataAnalysis-BowerBI
-Some Reports and Dashboards with BowerBI 
+# DataAnalysis-PowerBI
+Some Reports and Dashboards with PowerBI 
 ### Dashboard  : 
 Report about sales in company in 2019 - 2020
 ### Dashboard1 : 
